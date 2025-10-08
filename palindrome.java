@@ -1,6 +1,6 @@
 public class palindrome {
     public static void main(String [] args){
-        String str = "leved";
+        String str = "level";
         boolean result = pal(str);
         System.out.println("Is str a palindrome : " + result);
     }
